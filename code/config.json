@@ -1,0 +1,10 @@
+{
+    "keys": {
+      "steer_left": "left",
+      "steer_right": "right",
+      "accelerate": "up",
+      "brake": "down",
+      "use_item": "space"
+    }
+  }
+  
