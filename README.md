@@ -1,5 +1,7 @@
 # Controle de Corrida por Gestos - Mario Kart
 
+Vídeo do projeto: https://youtu.be/82MyaIUXg78
+
 ## Descrição do Projeto
 Este projeto implementa um sistema de controle por gestos para o jogo Mario Kart no PC (disponível através do link [mario Kart PC](https://mkpc.malahieude.net/mariokart.php)), proporcionando uma experiência de jogo mais imersiva e intuitiva. Utilizando as bibliotecas OpenCV e MediaPipe, o sistema captura movimentos das mãos e da cabeça do jogador em tempo real, mapeando-os para ações específicas no jogo, como dirigir, acelerar, frear ou usar itens.
 
